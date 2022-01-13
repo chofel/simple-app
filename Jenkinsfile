@@ -31,7 +31,7 @@ pipeline {
                      nexusUrl: '172.19.9.28:8081',
                      nexusVersion: 'nexus3',
                      protocol: 'http',
-                     repository: 'maven-nexus-sonam',
+                     repository: 'test',
                      version: '3.0.0'
             }
         }
